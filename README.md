@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dilipverma33333
 - 👀 I’m interested in website creation 
-- 🌱 I’m currently learning ...HTML,css,javascript
+- 🌱 I’m currently learning ...HTML,css,javascript. Although 3 years are gone but no improvement.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
